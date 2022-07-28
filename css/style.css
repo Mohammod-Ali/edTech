@@ -1,0 +1,10 @@
+
+#overlay{
+    filter: brightness(50%);
+}
+
+@media only screen and (max-width: 763px) {
+    .fluid{
+        width: 210px;
+    }
+}
