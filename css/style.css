@@ -5,8 +5,8 @@
 
 
 @media only screen and (max-width: 763px) {
-    .fluid{
-        width: 210px;
+    .customFluid{
+        width: 200px;
     }
     .customFlex{
         flex-direction: column;
