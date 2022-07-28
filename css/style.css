@@ -3,8 +3,18 @@
     filter: brightness(50%);
 }
 
+
 @media only screen and (max-width: 763px) {
     .fluid{
         width: 210px;
     }
+    .customFlex{
+        flex-direction: column;
+    }
+}
+
+@media only screen and (min-width: 689px) and ( max-width: 992px){
+    .customFlex{
+        flex-direction: column;
+    }   
 }
